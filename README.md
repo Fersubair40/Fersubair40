@@ -17,7 +17,7 @@
  💬 Ask me about Python, JavaScript< React, Machine Learning
 <br>
 <br>
- 📫 How to reach me: <a href='twiiter.com/temi_subair'><img height="0px"  src="https://img.icons8.com/android/24/000000/twitter.png"/></a>
+ 📫 How to reach me: <a href='twiiter.com/temi_subair'><img height="5px"  src="https://img.icons8.com/android/24/000000/twitter.png"/></a>
 <br>
 <br>
 😄 Pronouns: He/him
