@@ -4,7 +4,7 @@
 
 ## 🔭 I’m currently working on Open Source Projects
 <br>
-### 🌱 I’m currently learning Data Science and Machine Learning
+## 🌱 I’m currently learning Data Science and Machine Learning
 <br>
 ## 👯 I’m looking to collaborate on exiciting projects
 <br>
@@ -12,7 +12,7 @@
 <br>
 ## 💬 Ask me about Python, JavaScript< React, Machine Learning
 <br>
-## 📫 How to reach me: <a href='twiiter.com/temi_subair'><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+## 📫 How to reach me: <a href='twiiter.com/temi_subair'><<img src="https://img.icons8.com/android/24/000000/twitter.png"/></a>
 <br>
 ## 😄 Pronouns: He/him
 <br>
