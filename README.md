@@ -5,13 +5,13 @@
  🔭 I’m currently working on Open Source Projects
 <br>
 <br>
- 🌱 I’m currently learning Data Science and Machine Learning
+ 🌱 I’m currently learning Data Science and Machine Learning, Ruby on Rails
 <br>
 <br>
  👯 I’m looking to collaborate on exiciting projects
 <br>
 <br>
- 🤔 I’m looking for help with ...
+ 🤔 I’m looking for help with Ruby on Rails
 <br>
 <br>
  💬 Ask me about Python, JavaScript< React, Machine Learning
@@ -23,5 +23,5 @@
 😄 Pronouns: He/him
 <br>
 <br>
-⚡ Fun fact: Foodie and love to play games
+⚡ Fun fact: Foodie, Have French Blood< Can Speak Basic Spanish
 
