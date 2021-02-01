@@ -11,7 +11,7 @@
  👯 I’m looking to collaborate on exiciting projects.
 <br>
 <br>
- 🤔 I’m looking to learn.
+ 🤔 I’m looking to.
 <br>
 <br>
  💬 Ask me about Python, Flask, JavaScript, React, React-Native, UI/UX design for front-end Development.
