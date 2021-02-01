@@ -2,7 +2,7 @@
 
 
 
- 🔭 I’m currently working full-time and shipping react code to production server.
+ 🔭 I’m currently working full-time and building user interface using react.
 <br>
 <br>
  🌱 I’m currently learning  Ruby on Rails and Golang.
