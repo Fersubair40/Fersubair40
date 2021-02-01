@@ -17,11 +17,8 @@
  💬 Ask me about Python, Flask, JavaScript, React, React-Native, UI/UX design for front-end Development.
 <br>
 <br>
-
-<br>
-<br>
 😄 Pronouns: He/him
 <br>
 <br>
-⚡ Fun fact: Foodie, Have French Blood, Can Speak Basic Spanish,Last Born, Tend to exhibit last born traits ince in a while.
+⚡ Fun fact: Foodie, Have French Blood, Can Speak Basic Spanish, Last Born, Tend to exhibit last born traits ince in a while.
 
