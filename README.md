@@ -2,26 +2,26 @@
 
 
 
- 🔭 I’m currently working on Open Source Projects
+ 🔭 I’m currently working on Shipping code to production server.
 <br>
 <br>
- 🌱 I’m currently learning Data Science and Machine Learning, Ruby on Rails
+ 🌱 I’m currently learning  Ruby on Rails and Golang.
 <br>
 <br>
- 👯 I’m looking to collaborate on exiciting projects
+ 👯 I’m looking to collaborate on exiciting projects.
 <br>
 <br>
- 🤔 I’m looking for help with Ruby on Rails
+ 🤔 I’m looking to learn.
 <br>
 <br>
- 💬 Ask me about Python, JavaScript< React, Machine Learning
+ 💬 Ask me about Python, Flask, JavaScript, React, React-Native, UI/UX design for front-end Development.
 <br>
 <br>
- 📫 How to reach me: <a href='www.twiiter.com/temi_subair'><img height="15px"  src="https://img.icons8.com/android/24/000000/twitter.png"/></a>
+
 <br>
 <br>
 😄 Pronouns: He/him
 <br>
 <br>
-⚡ Fun fact: Foodie, Have French Blood< Can Speak Basic Spanish
+⚡ Fun fact: Foodie, Have French Blood, Can Speak Basic Spanish,Last Born, Tend to exhibit last born traits ince in a while.
 
