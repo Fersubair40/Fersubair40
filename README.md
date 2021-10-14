@@ -5,7 +5,7 @@
  🔭 I’m currently working full-time and building user interface using react.
 <br>
 <br>
- 🌱 I’m currently learning  Ruby on Rails and Golang.
+ 🌱 👨🏽‍💻🪄 I’m currently learning  Ruby on Rails and Scala.
 <br>
 <br>
  👯 I’m looking to collaborate on exiciting projects.
@@ -21,4 +21,5 @@
 <br>
 <br>
 ⚡ Fun fact: Foodie, Have French Blood, Can Speak Basic Spanish, Last Born, Tend to exhibit last born traits once in a while.
-
+<br>
+<br>
