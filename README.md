@@ -2,10 +2,10 @@
 
 
 
- 🔭 I’m currently working full-time and building user interface using react.
+ 🔭 I’m currently working full-time and building user interface using React and backend system using Rails.
 <br>
 <br>
- 🌱 👨🏽‍💻🪄 I’m currently learning  Ruby on Rails and Scala.
+ 🌱 👨🏽‍💻🪄 I’m currently learning and Scala and Advanced CSS.
 <br>
 <br>
  👯 I’m looking to collaborate on exiciting projects.
