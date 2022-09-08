@@ -23,4 +23,4 @@
 ⚡ Fun fact: Foodie, Have French Blood, Can Speak Basic Spanish, Last Born, Tend to exhibit last born traits once in a while.
 <br>
 <br>
-[![Temilayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fersubair40)](https://github.com/anuraghazra/github-readme-stats)
+[![Temilayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fersubair40&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
