@@ -5,7 +5,7 @@
  🔭 I’m currently working full-time and building user interface using React and backend system using Rails.
 <br>
 <br>
- 🌱 👨🏽‍💻🪄 I’m currently learning and Scala and Advanced CSS.
+ 🌱 👨🏽‍💻🪄 I’m currently learning Scala, Elixir and Creative Design.
 <br>
 <br>
  👯 I’m looking to collaborate on exiciting projects.
@@ -14,7 +14,7 @@
  😀 Love playing video games.
 <br>
 <br>
- 💬 Ask me about Python, Flask, JavaScript, React, React-Native, UI/UX design for front-end Development.
+ 💬 Ask me about Python, Flask, JavaScript, React, React-Native, Typescript, React Query, Relational Databases, Cloud Computing.
 <br>
 <br>
 😄 Pronouns: He/him
