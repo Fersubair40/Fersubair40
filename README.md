@@ -2,13 +2,13 @@
 
 
 
- 🔭 I’m currently working full-time and building user interface using React and backend system using Rails.
+ 🔭 I’m working full-time and building user interfaces using React and backend systems using Rails.
 <br>
 <br>
  🌱 👨🏽‍💻🪄 I’m currently learning Scala, Elixir and Creative Design.
 <br>
 <br>
- 👯 I’m looking to collaborate on exiciting projects.
+ 👯 I’m looking to collaborate on exciting projects.
 <br>
 <br>
  😀 Love playing video games.
@@ -20,7 +20,7 @@
 😄 Pronouns: He/him
 <br>
 <br>
-⚡ Fun fact: Foodie, Have French Blood, Can Speak Basic Spanish, Last Born, Tend to exhibit last born traits once in a while.
+⚡ Fun fact: Foodie, Have French Blood, and can Speak Basic Spanish.
 <br>
 <br>
 
