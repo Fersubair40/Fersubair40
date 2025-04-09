@@ -19,8 +19,6 @@
 <br>
 😄 Pronouns: He/him
 <br>
-<br>
-⚡ Fun fact: Foodie, Have French Blood, and can Speak Basic Spanish.
-<br>
+
 <br>
 
